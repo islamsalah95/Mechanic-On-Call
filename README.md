@@ -1,6 +1,6 @@
 to run project go to important folder and follow steps in file install.txt.
 
 
-<p>i am glad yo produce this project it about new idea that help people have cars issue on the road to fix quickly as possible by visit our website and make order to best rate mechanic in the city that have issue and car visit him and fix his problem and help  michanics to get freelance job by register in our website as a micanic and be a member from our team you can watch video demo in folder important the follow steps to run project.</p>
+<p>"I am glad to present this project. It is about a new idea that helps people with car issues on the road to get them fixed as quickly as possible by visiting our website and placing an order for the best-rated mechanic in the city to come and fix their problems. Our platform also helps mechanics to get freelance jobs by registering on our website as a mechanic and becoming a member of our team. You can watch a video demo in the 'Important' folder and follow the steps to run the project."</p>
 
 
